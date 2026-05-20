@@ -3,8 +3,8 @@ TASKFLOW — TEAM TASK MANAGER
 Full-Stack Web Application
 ================================================================================
 
-LIVE URL: [Add your Railway URL after deployment]
-GITHUB:   [Add your GitHub repo URL]
+LIVE URL: https://taskmanager-production.up.railway.app
+GITHUB:   https://github.com/sakshigund-tech/taskmanager
 
 --------------------------------------------------------------------------------
 PROJECT OVERVIEW
